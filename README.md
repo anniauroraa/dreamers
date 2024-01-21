@@ -1,9 +1,9 @@
 # dreamers
-This is a portfolio about a project implementation (hence this repository is not actually runnable)
+This is a portfolio about a project implementation that mainly consists of a design prototype and includes techincal research and planning
 
 The project was a part of course offered by Tampere university: HTI.800 - Human-Technology Interaction Research and Innovation Project. Our group consisted of three people total. I was more in charge of the technical research regarding machine learning implementations but I also participated in the user research and design itself. 
 
-Our basic idea for the project was to create a mobile app for a dream diary enhanced with AI. It's three main functionalities are:
+Our basic idea for the project was to create a mobile app for a dream diary enhanced with AI. Its three main functionalities are:
 1. Log your dreams with text or speech and the app generates an image based on your prompt
 2. "My dreams"-section where all your logged dreams are collected to
 3. "My friends"-section where you share your generated images to each other
